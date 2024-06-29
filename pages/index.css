@@ -65,6 +65,7 @@
 }
 
 .header__title {
+  display: block;
   max-width: 729px;
   font-size: 60px;
   letter-spacing: -0.6px;
@@ -73,14 +74,14 @@
   margin: 183px 0 0;
 }
 
-.header__title_blue {
-  display: block;
+.header__title.header__title_blue {
   font-family: "Noto Serif";
   font-style: italic;
   font-weight: normal;
   font-size: 60px;
   line-height: 72px;
   color: #2f80ed;
+  margin: 0;
 }
 
 .header__description {
