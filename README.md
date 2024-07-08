@@ -1,4 +1,4 @@
-# Triple Peaks Coffee Shop
+# Triple Peaks Coffee Shop - Project 4 Stage 4
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
@@ -14,3 +14,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+### Difficulties 
+
+Had difficulties with BEM naming conventions. Planning on review past lessons and youtube videos to improve.
