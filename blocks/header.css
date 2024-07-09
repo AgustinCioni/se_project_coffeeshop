@@ -31,7 +31,7 @@
   letter-spacing: -0.6px;
   font-weight: 500;
   line-height: 70px;
-  margin: 183px 0 0 80px;
+  margin: 183px 0 0;
 }
 
 .header__span-accent {
@@ -49,14 +49,12 @@
   font-family: "Noto Serif", Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
-  margin: 28px 0 0 80px;
+  margin: 28px 0 0;
 }
 
 .header__footer {
   z-index: 2;
   margin-top: auto;
-  margin-bottom: 40px;
-  margin-left: 80px;
   width: 100%;
   display: flex;
   justify-content: space-between;
