@@ -34,7 +34,7 @@
   margin: 0;
 }
 
-.footer__list-item:last-child {
+.footer__list-item:not(:last-child) {
   margin: 16px 0;
 }
 
